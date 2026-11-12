@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021330313072",
+    "project_id": "stockwise-54acd",
+    "storage_bucket": "stockwise-54acd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021330313072:android:da01eb1cfe5561ea0849b5",
+        "android_client_info": {
+          "package_name": "com.stockwise.stockwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2nvObankev-V0u9sCWJ7Hd84m30Hlkeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
